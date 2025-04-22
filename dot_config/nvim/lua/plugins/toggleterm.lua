@@ -7,3 +7,4 @@ toggleterm.setup({
   shell = "nu"
 })
 
+return {}
